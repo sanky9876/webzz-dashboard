@@ -40,3 +40,5 @@
 -   **Admin Dashboard**: Approve new users, view user list.
 -   **User Dashboard**: Welcome screen.
 -   **Security**: Password hashing (bcrypt), Session management (jose).
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsanky9876%2Fwebzz-dashboard)
