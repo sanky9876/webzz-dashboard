@@ -61,7 +61,7 @@ export default function VideoSummarizer() {
                     style={{
                         padding: '0.8rem 1.5rem',
                         backgroundColor: loading ? '#ccc' : '#2563eb',
-                        color: '#white',
+                        color: 'white',
                         border: 'none',
                         borderRadius: '8px',
                         fontSize: '1rem',
